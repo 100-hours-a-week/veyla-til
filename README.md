@@ -18,5 +18,13 @@
 | 과제 4번 | [Colab](https://colab.research.google.com/drive/1RVfH8PzN_uQmmzmGPxvB0Fcu837DeNA-?usp=sharing) | [보고서](https://docs.google.com/document/d/1B0tOO4f0N7_v09DlrTrXvDJ1fpufWMPsbp5oxK3KECc/edit?usp=sharing) |
 
 
-### [n월 n째주, n주차] : 간략 주제 작성 
+### [7주차, (10월 4째주)]
+#### 과제
+
+| | Colab | 보고서 |
+| --- | --- | --- |
+|과제 1번 | [Colab](https://colab.research.google.com/drive/12j4O7OzbKoJ5NE6biLrdXvSUSgETIxYh?usp=sharing) | [보고서](https://docs.google.com/document/d/1wsCSMuFITPh8XLqIrcbLl1WnfuOQgCY4si7rz1WBIQY/edit?usp=sharing) |
+| 과제 2번 | [Colab](https://colab.research.google.com/drive/1OqL_LH0PHuP2td7nbzuTTzwEC4_S_uhf?usp=sharing) | [보고서](https://docs.google.com/document/d/1-dfuZa1ShdFq4NEJbkVWFZHv3QgqIl_aPX5sRO9-tYE/edit?usp=sharing) |
+| 과제 3번 | [Colab](https://colab.research.google.com/drive/1cTLmtL9u71lw0elJkPpZLxfynuk1JCxa?usp=sharing) | [보고서](https://docs.google.com/document/d/1djzKdUCukXONKmqfgtJ_T3Q-LvB28J3BZbXCWyxWCPo/edit?usp=sharing) |
+
 
